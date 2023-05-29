@@ -1,0 +1,1 @@
+please only use these with HONOR 10 Lite, as these programs rely on its specific screen size and scale

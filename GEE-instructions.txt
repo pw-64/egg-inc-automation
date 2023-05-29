@@ -1,0 +1,11 @@
+plug in phone, click 'transfer files', turn on usb debugging
+open egg.inc and settings in split screen
+settings in top half, egg.inc in bottom half
+turn off internet connections
+in settings, go to date and time, turn off automatic, set date to early as possible
+go to egg.inc and make sure there is plenty of shipping and housing
+put the date forward a little to get rid of the 'cheat event detected' warning
+run viewer.command if you want phone display off
+run adb.command
+
+!!! keep an eye on it to make sure it doesnt get stuck or break !!!
